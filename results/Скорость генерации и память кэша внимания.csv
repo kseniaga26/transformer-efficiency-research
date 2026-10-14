@@ -1,0 +1,3 @@
+attention_type,prompt_length,generated_tokens,decode_tokens_per_second,kv_cache_bytes_after_prefill
+dense,256,64,71.3904511586364,6291456
+local,256,64,51.09627766301998,3121152
